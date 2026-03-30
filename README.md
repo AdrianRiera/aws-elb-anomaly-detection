@@ -126,4 +126,8 @@ terraform destroy
 ![Slack Project Interface](slack_project.svg)
 
 ### Video demostrativo
-<video src="slack_project_video.mp4" width="100%" controls></video>
+<div align="center">
+  <video src="slack_project_video.mp4" width="100%" controls muted autoplay loop>
+    Tu navegador no admite el elemento de video.
+  </video>
+</div>
