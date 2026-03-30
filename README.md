@@ -126,4 +126,4 @@ terraform destroy
 ![Slack Project Interface](slack_project.svg)
 
 ### Video demostrativo
-<video src="slack_project_video.mov" width="100%" controls></video>
+<video src="slack_project_video.mp4" width="100%" controls></video>
