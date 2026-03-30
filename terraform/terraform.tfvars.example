@@ -1,0 +1,9 @@
+slack_bot_token      = "xoxb-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXXXXXXXX"
+slack_signing_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+slack_channel_id     = "CXXXXXXXXXX"
+aws_account_id       = "XXXXXXXXXXXX"
+s3_bucket_name       = "nombre-de-tu-bucket-de-logs"
+
+# Opcionales (tienen valores por defecto)
+# aws_region  = "eu-west-1"
+# aws_profile = "default"
