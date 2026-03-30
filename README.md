@@ -119,3 +119,11 @@ terraform destroy
 ## Stack tecnológico
 
 `AWS Lambda` · `Amazon S3` · `Amazon DynamoDB` · `Amazon EventBridge` · `Amazon API Gateway` · `Terraform` · `Python 3.12` · `Slack Block Kit`
+
+## Demo del Proyecto
+
+### Captura de pantalla
+![Slack Project Interface](slack_project.svg)
+
+### Video demostrativo
+<video src="slack_project_video.mov" width="100%" controls></video>
